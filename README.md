@@ -1,25 +1,25 @@
-# Hi, Im Nevio
+# Hi 👋, Im Nevio
 
-**About me**
+**About me** 🪪
 
-- Im currently in my first **Apprentice year as an IT IT technician**
-- I love computer sience
+- Im currently in my first **Apprentice year as an IT IT technician** 🎓
+- I love ❤️ computer sience 
 - Im open for new stuff to lerarn ^^
 
 ---
 
 <br>
 
-## Skills
+## Skills 🔧
 
-#### Programming:
+#### Programming 📂 :
 
 - HTML
 - CSS
 - Python
 - C#
 
-#### Plattform:
+#### Plattform 📂 :
 
 - Knowlage with Basic Ntework Setup
 - Basics Proxmox
@@ -31,7 +31,7 @@
 
 <br>
 
-## Donation
+## Donation 💰
 
 - **Monero (XMR) Address**
   ```bash
