@@ -35,9 +35,12 @@
 
 - **Monero (XMR) Address**
   ```bash
-  48sytd242mw4AChPhd2Y2MGoHEmT7fb7GB3Hpoyjg1Fo7ZwCbw17ijM3iEZxM1T1AKZyVoCgLw5EAMET3sXhqhWjMnoZbZH
+  4ABCH1Tb51ceUwdBBjUzjK7zYxnNZ7MpU3SQpZ9WDQ4Pb185TCebAuo3PoMw3unPsARWPErQMC4yNh2TDdFoqZuNBHftqnJ
   ```
-
+- **Bitcoin (BTC) Adress**
+  ```bash
+  bc1qszceh2tus3p350c2ur8pg7aklp2x8rknqae3gn
+  ```
 
 
 
