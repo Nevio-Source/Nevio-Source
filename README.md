@@ -6,6 +6,8 @@
 - I love ❤️ computer sience 
 - Im open for new stuff to lerarn ^^
 
+![Tux](assets/tux_programming.gif)
+
 ---
 
 <br>
