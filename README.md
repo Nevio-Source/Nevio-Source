@@ -2,7 +2,7 @@
 
 **About me** 🪪
 
-- Im currently in my first **Apprentice year as an IT IT technician** 🎓
+- Im currently in my first **Apprentice year as an IT technician** 🎓
 - I love ❤️ computer sience 
 - Im open for new stuff to lerarn ^^
 
