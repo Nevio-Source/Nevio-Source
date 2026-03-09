@@ -1,4 +1,4 @@
-# Hi 👋, Im Nevio
+# Hi 👋, Im Nevio :3
 
 **About me** 🪪
 
