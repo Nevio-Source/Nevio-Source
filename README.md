@@ -29,6 +29,10 @@
 - Docker
 - K8s
 
+#### Currently learning 📖 :
+
+- Rust
+
 ---
 
 <br>
